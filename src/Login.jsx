@@ -7,7 +7,7 @@ function test(){
 function Login() {
   return (
     <div>
-      <button onClick={test} type="button">Hello</button>
+      <h1>AAAAAA</h1>
     </div>
   )
 }
