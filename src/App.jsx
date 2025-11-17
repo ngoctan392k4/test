@@ -10,6 +10,8 @@ function App() {
   return (
     <>
       <Login />
+      <>View</> <>Serach</>
+
     </>
   )
 }
