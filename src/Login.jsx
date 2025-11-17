@@ -8,6 +8,7 @@ function Login() {
   return (
     <div>
       <h1>AAAAAA</h1>
+      <h2>BBBBBBB</h2>
     </div>
   )
 }
