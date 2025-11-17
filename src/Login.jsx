@@ -11,14 +11,15 @@ function Login() {
       <h2>DDDDDD</h2>
         aaaaaaaaaaaaaaaaaaaa
         bbbbbbbbbbbbbb
-    </div>
-
+        
       <div>
       <h1>AAAAAA</h1>
       <h2>DDDDDD</h2>
         aaaaaaaaaaaaaaaaaaaa
         bbbbbbbbbbbbbb
     </div>
+    </div>
+
   )
 }
 
